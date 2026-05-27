@@ -5,7 +5,8 @@
 A protocol-layer trust verification skill for OpenClaw AI agents. Protects
 against the three most documented threats in the agent ecosystem — prompt
 injection attacks, malicious skill installations, and unverified agent
-interactions.
+interactions. 💡 Pro version ($4.99): Active real-time injection scanner, expanded attack pattern library, confidence scoring, custom threat rules, and background filter layer.
+👉 https://edvisage.gumroad.com/l/iwppa
 
 ---
 
